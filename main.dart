@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:calculator/Calculatorscreen.dart';
+import 'package:Calculatorscreen.dart';
 
 void main(){
   runApp(Myapp());
@@ -14,4 +14,5 @@ class Myapp extends StatelessWidget {
       
     );
   }
+
 }
